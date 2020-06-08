@@ -7,7 +7,7 @@ Attached our first two programs will allow you to sign multiple petitions.
 
 Make sure you have the latest version of Python installed: https://www.python.org/downloads/  
   
-Using Selenieum: 
+### Using Selenieum: 
 We have already included selenium into each of the folders however, you will need to pip install it into your computer. 
 Then you will need to download your version of selenium to your computer and run the .exe when your run the python file. 
 
@@ -17,7 +17,7 @@ Link to download Chromedriver: https://chromedriver.chromium.org/downloads
 
 ## Running the script:
 
-On Terminal (if you are on a Mac) or Powershell/Command Prompt, run:  
+On Terminal (if you are on a Mac/Linux) or Powershell/Command Prompt (for Windows), run:  
 `python main.py`  
 
 ## Bugs:
